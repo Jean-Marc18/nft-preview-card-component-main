@@ -112,7 +112,7 @@ h4 {
 .down>p {
     font-size: .8rem;
     padding-top: .9rem;
-    padding-bottom: .8rem;
+    padding-bottom: 1rem;
     color: var(--Soft-blue);
 }
 
@@ -137,7 +137,7 @@ h4:hover {
     justify-content: space-between;
     width: 100%;
     gap: 1rem;
-    padding-bottom: .8rem;
+    padding-bottom: 1rem;
     border-bottom: 1px solid var(--Very-dark-blue-line);
 }
 
@@ -152,7 +152,7 @@ h4:hover {
     display: flex;
     align-items: center;
     width: 100%;
-    gap: 1rem;
+    gap: .5rem;
     padding-top: .5rem;
 }
 
